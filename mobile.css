@@ -1,0 +1,25 @@
+
+
+.home-text {
+    margin-top: 30px;
+}
+
+
+
+
+.about-content {
+    display: block;
+}
+
+.about-text {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.contact-content {
+    padding: 25px;
+}
+
+form input:first-child{
+    width: 300px;
+}
